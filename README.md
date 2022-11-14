@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kedan
-- 👀 I’m interested in Software Engineering, OpenAI 
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: (917)454-8615, zhakedan@hotmail.com, kz2028@nyu.edu
 
 <!---
