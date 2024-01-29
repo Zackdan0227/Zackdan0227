@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kedan
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Development
+- 👀 I’m interested in Software Engineering, combining LLM + ML, IOS App Development
 - 📫 How to reach me: (917)454-8615, zhakedan@hotmail.com, kz2028@nyu.edu
 
 <!---
