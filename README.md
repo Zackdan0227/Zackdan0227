@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kedan Zha</h1>
 <h3 align="center">CS undergrad @ NYU | Graphics Design| Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on [Capybara AI](capybaraai.io)
+- 🔭 I’m currently working on [Capybara AI](capybaraai.io) and [AImpulseLearning](https://www.linkedin.com/company/aimpulse-learning/posts/?feedView=all)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/kedanzha](https://linktr.ee/kedanzha)
 
